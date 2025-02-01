@@ -1,0 +1,5 @@
+flask
+joblib
+pickle5
+numpy
+xgboost
